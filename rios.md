@@ -8,6 +8,12 @@
 * WALUIGI
 * El paraiso
 
+# AMERICA
+* Americo
+* Tal
+* Pascual
+
+
 # AFRICA
 * Niger
 * Orange
