@@ -14,3 +14,9 @@
 * Americo
 * Tal
 * Pascual
+
+# AFRICA
+* Nigeria
+* Niger
+* Mozambique
+
