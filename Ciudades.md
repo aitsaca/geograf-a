@@ -1,4 +1,0 @@
-# ASIA
-* Tokio
-* Pekin
-* Seul
