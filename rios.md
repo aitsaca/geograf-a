@@ -1,3 +1,8 @@
+# ASIA
+* Ganges
+* Yangtze
+* Lena
+
 # EUROPA
 * EL rio de Adolf
 * WALUIGI
