@@ -9,3 +9,8 @@
 * Mi casa
 * Tu casa
 * Pitoria
+
+# AFRICA
+* Nigeria
+* Niger
+* Mozambique
