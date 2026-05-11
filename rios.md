@@ -7,3 +7,8 @@
 * EL rio de Adolf
 * WALUIGI
 * El paraiso
+
+# AFRICA
+* Niger
+* Orange
+* Nilo
