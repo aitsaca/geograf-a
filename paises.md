@@ -9,3 +9,8 @@
 * Mi casa
 * Tu casa
 * Pitoria
+
+# AMERICA
+* Americo
+* Tal
+* Pascual
