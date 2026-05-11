@@ -1,4 +1,0 @@
-# ASIA
-* Ganges
-* Yangtze
-* Lena
